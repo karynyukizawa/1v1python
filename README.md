@@ -2,5 +2,5 @@
 Projeto de Jogo para a matéria de Redes da FATEC São Caetano do Sul
 
 # Vídeo do YouTube
-[![Watch the video](https://img.youtube.com/vi/tQKXJfs0Pms/maxresdefault.jpg)](https://youtu.be/tQKXJfs0Pms)
+(https://i9.ytimg.com/vi_webp/tQKXJfs0Pms/mqdefault.webp?sqp=CNjkmY0G&rs=AOn4CLCoKmT-LQ-vYi8wG5o8UUzMHc3cyw)](https://youtu.be/tQKXJfs0Pms)
 
