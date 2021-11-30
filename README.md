@@ -12,13 +12,19 @@ Tecnologias de Redes para Computadores (FATEC Antônio Russo - São Caetano do S
 
 # Integrantes do Grupo
 Ariel Felipe Gomes Magalhaes
+
 Katty Yuri Sato
+
 Lara Martuscelli Bruno
+
 Lucas Soares de Siqueira Yoshikawa
+
 Mateus Chelegao Silva
+
 
 # Vídeo do YouTube
 https://youtu.be/tQKXJfs0Pms
+
 (Peço desculpas pelo 1m a mais no vídeo, o RNG não estava ajudando)
 
 # Short Manual
