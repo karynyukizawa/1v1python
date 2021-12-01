@@ -11,15 +11,15 @@ Fábio Henrique Cabrini
 Tecnologias de Redes para Computadores (FATEC Antônio Russo - São Caetano do Sul)
 
 # Integrantes do Grupo
-Ariel Felipe Gomes Magalhaes
+Ariel Felipe Gomes Magalhaes (RA: 1680961923031)
 
-Katty Yuri Sato
+Katty Yuri Sato (RA: 1680961923004)
 
-Lara Martuscelli Bruno
+Lara Martuscelli Bruno (RA: 1680961923012)
 
-Lucas Soares de Siqueira Yoshikawa
+Lucas Soares de Siqueira Yoshikawa (RA: 1680961923019)
 
-Mateus Chelegao Silva
+Mateus Chelegao Silva (RA: 1680961923023)
 
 
 # Vídeo do YouTube
